@@ -1,0 +1,13 @@
+{
+"version": 1,
+"themes": {
+"hype": {
+"name": "hype",
+"repo": "https://github.com/HiTman77/hype",
+"zip": "https://github.com/HiTman77/hype/archive/master.zip",
+"summary": "hype",
+"version": "1.0.1",
+"image": "https://raw.githubusercontent.com/HiTman77/hype/main/preview.jpg"
+}
+}
+}
